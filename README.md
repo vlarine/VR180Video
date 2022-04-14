@@ -2,7 +2,7 @@
 
 This is the project for testing stereo video rendering on Oculus Quest2.
 
-![Result video](./Media/20220414.mp4)
+<video src='./Media/20220414.mp4' width=400/>
 
 The stereo video for left/right eye views was generated using the [Disco Diffusion v5.2 \[w/ VR Mode\]](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb) collab.
 
