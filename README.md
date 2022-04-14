@@ -8,4 +8,4 @@ The stereo video for left/right eye views was generated using the [Disco Diffusi
 
 Then the video was stiched using [VR180 CREATOR](https://www.patrickgrunwald.de/vr180-creator-download).
 
-And added into a Unity scene using [a Skybox Materia](https://docs.unity3d.com/Manual/VideoPanoramic.html).
+And added into a Unity scene using [a Skybox Material](https://docs.unity3d.com/Manual/VideoPanoramic.html).
